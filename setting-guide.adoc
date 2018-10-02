@@ -1,0 +1,75 @@
+= Setting Guide For Üst
+An Made in the Abyss–inspired RPG setting
+
+== Main Rules
+
+The Sinkhole::
+	is literally a walled-off space with its own, isolated natural flora and fauna. Everything that happens in this story happens inside the cauldron.
+
+Structure of the cauldron:
+
+=== The Rim
+A sacred place that no-one has seen before. +
+*Death Rites.* The dead are believed to find their last resting place on the Rim.
+Dead bodies are incinerated so that their soul can reach the Rim.
+A small paper cylinder carries the same flame that burned the body to the skies.
+
+TODO: Come up with better names for these.
+
+Three elements of the body::
+	1. The 'Soul' is whatever gaseous parts raise into the air as smoke.
+	2. The 'Body' is whatever remains in the hearth (ash).
+	3. The 'Spark' is the flame that consumed it all. The 'spark' that once connected the other two parts is now in the burning fire.
+
+
+=== The Steeps
+Slippery, acidic and pretty much horizontal cliff that separates the rim from all live.
+
+The rim of the crater is not reachable by any means. There are no trees and therefore no big trunks in the crater, every large plant relies on walls for support. There are a lot of materials that have high tensile strength, but few with high compressive strength.
+
+The Steeps are very, very slippery and acidic, destroying most materials in an instant. All attempts to scale the Steeps inevitable fail in a comically way.
+
+Flight never… took flight. There are some animals that can glide the thermals of the central crater very well, but nothing can fly long enough to escape the grasp of the crater. All great thinkers coming close to inventing airfoils, helicopters or hot air balloons died a tragic death or escaped the crater with all documents, never to be seen again.
+
+
+=== Upper Greens / Der Rauchfang
+
+Agriculture, vertical farms and flying sheepcows.
+
+tehén: cow
+birka/juh: sheep
+
+juhén? tehrka? tehhu?
+
+
+=== Üst / Die Kesselstadt
+
+The town propper.
+
+
+=== Die Asche-/Feuergrube
+
+Seedy underbelly of the town.
+
+
+=== Underdark
+. The Stalks (a natural prison for the worst of the worst, trapping its inmates between the trunks of all the big plants)
+. Roots of the earth
+
+
+== Rites
+
+Yahreszeiten-Kerze / The Center / Die Mitte::
+There is a suspended platform in the center of Üst which is the equivalent of a graveyard.
+It is roughly shaped like an asymmetric pyramid, with long steps instead of smooth slopes.
+Everyone who remembers a dead loved one places a lit candle on one of the steps on the day they died.
+This happens in absolute silence.
+Some pitiful people have to place multiple candles.
+On certain nights, there are so many candles in the Center that the whole town is lit by their eerie light (so called _Flickering Nights_).
+
+
+== Misc Ideas
+- Kletterpflanzen
+- plants have green tops and smoke-blackened undersides (leaves, pumpkins, etc.)
+- the crater has actually a very small diameter; there are three/four big plants, supported by the crater walls, that grow from the lowest parts of the crater to the very top
+- the town is vertical with many balconies and buildings on top of each other. The expensive direction is radial instead of up, as it becomes harder and harder to support overhangs. A lot of zip lines, ropes and small suspension bridges span the crater.
