@@ -3,10 +3,10 @@
 I'm creating my very own RPG setting.
 It is based on _Made in the Abyss_, or at least what I think _Made in the Abyss_ is about—I've never actually seen the show.
 But nothing sets my mind into motion as a six-sentence summary of an intriguing story or game.
-Tone-wise my main inspirations are the _Zamonien_ novels by _W. Moers_.
-I'm trying my best to create a small, original word that (hopefully) doesn't have most of the common high fantasy clichés.
+Tone-wise, my main inspirations are the _Zamonien_ novels by _W. Moers_.
+I'm trying my best to create a small, original world that (hopefully) doesn't have most of the common high fantasy clichés.
 This is also an exercise in vimmanship ^(see what I did there?)^ and asciidoc in order to finally learn how to use these powerful tools.
 
-Instead of building a whole world, in this setting there is just one sinkhole.
+Instead of building a entire world, in this setting there is just one sinkhole.
 It is a crater-like structure of several 100 m in diameter that contains a whole, completely isolated ecosystem.
 There is a small and sleepy town at the very top and the depths below that beg to be explored. This hole goes down a long way.
