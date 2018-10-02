@@ -1,10 +1,10 @@
 = Setting Guide For Üst
 An Made in the Abyss–inspired RPG setting
 
+
 == Main Rules
 
-The Sinkhole::
-	is literally a walled-off space with its own, isolated natural flora and fauna. Everything that happens in this story happens inside the cauldron.
+Is literally a walled-off space with its own, isolated natural flora and fauna. Everything that happens in this story happens inside the cauldron.
 
 Structure of the cauldron:
 
@@ -42,10 +42,15 @@ birka/juh: sheep
 juhén? tehrka? tehhu?
 
 
+- Kletterpflanzen
+- plants have green tops and smoke-blackened undersides (leaves, pumpkins, etc.)
+- the crater has actually a very small diameter; there are three/four big plants, supported by the crater walls, that grow from the lowest parts of the crater to the very top
+
 === Üst / Die Kesselstadt
 
 The town propper.
 
+The town is vertical with many balconies and buildings on top of each other. The expensive direction is radial instead of up, as it becomes harder and harder to support overhangs. A lot of zip lines, ropes and small suspension bridges span the crater.
 
 === Die Asche-/Feuergrube
 
@@ -69,7 +74,3 @@ On certain nights, there are so many candles in the Center that the whole town i
 
 
 == Misc Ideas
-- Kletterpflanzen
-- plants have green tops and smoke-blackened undersides (leaves, pumpkins, etc.)
-- the crater has actually a very small diameter; there are three/four big plants, supported by the crater walls, that grow from the lowest parts of the crater to the very top
-- the town is vertical with many balconies and buildings on top of each other. The expensive direction is radial instead of up, as it becomes harder and harder to support overhangs. A lot of zip lines, ropes and small suspension bridges span the crater.
