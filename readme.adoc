@@ -1,0 +1,8 @@
+= Readme
+
+I'm creating my very own RPG setting.
+
+Instead of building a whole world, in this setting there is just one sinkhole.
+It is a crater-like structure of several 100 m in diameter that contains a whole, completely isolated ecosystem.
+There is a small and sleepy town at the very top and the depths below that beg to be explored. This hole goes down a long way.
+
